@@ -3,9 +3,6 @@ import jieba    #word segmentation
 import numpy    #scientific calculation
 import codecs   #open unicode 
 import pandas   #data analysis
-import matplotlib.pyplot as plt 
-from wordcloud import WordCloud
-
 from scipy.misc import imread
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud,ImageColorGenerator
